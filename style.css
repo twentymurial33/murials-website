@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    padding:5px;
+}
+
+p{
+    font-style: italic;
+    font-size: 24px;
+    margin: 10px;
+    padding: 2px;
+    color: blueviolet;
+    text-align: center;
+}
+
+button{
+    border-radius:10px;
+    padding:10px;
+    color:aquamarine;
+   
+}
+
+img{
+    width:20px;
+    height:20px
+
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: teal;
+    color: white;
+    font-size: 30px;
+}
+.hobby-list{
+    width:20px;
+    height:20px;
+}
